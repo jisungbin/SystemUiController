@@ -1,3 +1,3 @@
 # SystemUiController
 
-Android Ui color controller (status bar, navigation bar)
+Android system ui color controller (status bar, navigation bar)
