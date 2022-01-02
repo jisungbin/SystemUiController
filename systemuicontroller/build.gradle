@@ -19,6 +19,8 @@ ext {
     PUBLISH_SCM_URL = 'https://github.com/jisungbin/SystemUiController/tree/master'
 }
 
+apply from: "${rootProject.projectDir}/scripts/publish-module.gradle"
+
 android {
     compileSdk 31
 
