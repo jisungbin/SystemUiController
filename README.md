@@ -1,4 +1,4 @@
-<img src="https://github.com/jisungbin/SystemUiController/blob/master/art/system-ui-controller-demo.gif?raw=true" width="20%" align="right"/>
+<img src="https://github.com/jisungbin/SystemUiController/blob/master/art/system-ui-controller-demo.gif?raw=true" width="200" align="right"/>
 
 # SystemUiController 
 
